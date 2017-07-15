@@ -8,6 +8,8 @@
         }
     ],
     "autoload": {
-        "Wzhih\\Test\\":"src/"
+        "psr-4": {
+            "Wzhih\\Test\\":"src/"
+        }
     }
 }
