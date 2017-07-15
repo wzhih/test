@@ -1,9 +1,9 @@
 <?php
-namespace wzhih\test;
+namespace Wzhih\Test;
 
 class Test{
     public function __construct(){
-        return "This is construct";
+        echo "This is construct";
     }
 
     public function check(){
