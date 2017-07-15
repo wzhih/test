@@ -7,5 +7,7 @@
             "email": "1309603684@qq.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "Wzhih\\Test\\":"src/"
+    }
 }
